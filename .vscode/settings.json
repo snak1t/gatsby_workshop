@@ -1,0 +1,7 @@
+{
+  "search.exclude": {
+    "**/db_data": true,
+    "**/.cache": true,
+    "**/public": true
+  }
+}
